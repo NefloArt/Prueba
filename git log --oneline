@@ -1,0 +1,65 @@
+[33mcommit d9771eabb5c6f77858b6502dd50da3dd47c66a68[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Alejandro <alneflo27@gmail.com>
+Date:   Mon Nov 14 20:29:49 2022 +0100
+
+    Añado una línea en el archivo primero
+
+[33mcommit 3c1a45b78f0db780ce3dd072519e348f076d702b[m
+Author: Alejandro <alneflo27@gmail.com>
+Date:   Mon Nov 14 20:23:46 2022 +0100
+
+    Cambios los nombres de los archivos y la estructura de los directorios
+
+[33mcommit 86a01b3bb1514f81de7ede06d030c3a0fe631002[m
+Author: Alejandro <alneflo27@gmail.com>
+Date:   Fri Nov 4 17:34:31 2022 +0100
+
+    Borro el archivo temp2.txt
+
+[33mcommit 81a1b9f63aa16fbea8d11bb490c09cde2d18f9f3[m
+Author: Alejandro <alneflo27@gmail.com>
+Date:   Fri Nov 4 17:33:50 2022 +0100
+
+    Borro el archivo temp1.txt
+
+[33mcommit 6aca16728d3ecf762e2ab2a5a5c92993d292cfe8[m
+Author: Alejandro <alneflo27@gmail.com>
+Date:   Fri Nov 4 17:31:47 2022 +0100
+
+    Añado dos archivos de prueba para borrar
+
+[33mcommit 2f5ea2c2780884c8bf1affde6ec686362e59b1be[m
+Author: Alejandro <alneflo27@gmail.com>
+Date:   Fri Nov 4 17:28:44 2022 +0100
+
+    Añado líneas en el primer y en el segundo archivo
+
+[33mcommit c133887e6d6c50bb4a3bfdd1a5d1a605e3cf2a6c[m
+Author: Alejandro <alneflo27@gmail.com>
+Date:   Fri Nov 4 17:19:24 2022 +0100
+
+    Introduzco una línea en el tercer archivo
+
+[33mcommit dc1229e49f23aa7336db667db2f4a60c78bf0d43[m
+Author: Alejandro <alneflo27@gmail.com>
+Date:   Fri Nov 4 17:17:47 2022 +0100
+
+    Introduzco una línea en el primer y en el segundo archivo
+
+[33mcommit c2f9300023f248502c047ebf7543db41c645edda[m
+Author: Alejandro <alneflo27@gmail.com>
+Date:   Fri Nov 4 17:10:19 2022 +0100
+
+    Añado el tercer archivo
+
+[33mcommit 2363ca711d5eae9ef6cb89f125b8d951e0e67a05[m
+Author: Alejandro <alneflo27@gmail.com>
+Date:   Fri Nov 4 17:09:56 2022 +0100
+
+    Añado el segundo archivo
+
+[33mcommit 7c60caa2ac4e2d92fa3496f45a368d4c8fcdd5e5[m
+Author: Alejandro <alneflo27@gmail.com>
+Date:   Fri Nov 4 17:09:13 2022 +0100
+
+    Añado el primer archivo vacío
